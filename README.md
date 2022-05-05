@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @jpcchaves
-- 👀 I’m interested in learning HTML, CSS, JS and more.
-- 🌱 I’m currently learning, so don't judge me.
-- 📫 How to reach me: joaopaulodecastrochaves@hotmail.com
-- LinkedIn: www.linkedin.com/in/joaopaulo-chaves
+# Hi, I'm João!
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jpcchaves)](https://github.com/jpcchaves/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo-chaves/)](https://www.linkedin.com/in/fagnerpsantos/)
 
-<!---
-jpcchaves/jpcchaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me
+I'm a {frontend} developer.
+
+- [Website](https://jpcchaves.github.io/portfolio/) 💻 - My portfolio.
+
+### My interests
+
+- Web Development
+- JavaScript
+- HTML and CSS
+- ReactJS
+- VueJS
+- JQuery
+- Bootstrap
