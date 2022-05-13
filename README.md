@@ -17,3 +17,6 @@ I'm a {frontend} developer.
 - VueJS
 - JQuery
 - Bootstrap
+
+### Most Used Languages
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpcchaves&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jpcchaves" /></p>
