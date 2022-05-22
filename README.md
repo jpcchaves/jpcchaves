@@ -9,7 +9,7 @@
 
 ### About me
 I'm a {frontend} developer.
-- [Website](https://jpcchaves.github.io/portfolio/) 💻 - My portfolio.
+- [Website](https://jpcchaves.github.io/personalPortfolio/) 💻 - My portfolio.
 
 <hr/>
 
