@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor { Front-End }.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" margin-bottom="50px" alt="Computador iuriCode">
 
 <p align="left"> 
   Direciono meus esforços para o aperfeiçoamento das habilidades com as tecnologias voltadas para o Desenvolvimento Web. Abranjo conhecimentos em Javascript, ReactJS (React Hooks, ReactRouter, Context API), Consumo de APIs, criação de SPAs, a biblioteca Styled-Components, Bootstrap, HTML5 e CSS3.
