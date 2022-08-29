@@ -1,14 +1,34 @@
 # Hi, I'm João!
 
-### How to reach me
-
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo-chaves/)](https://www.linkedin.com/in/joaopaulo-chaves//)
-
-<hr/>
-
 ### About me
-I'm a { Front-End } developer.
-- [Portfolio](https://jpcchaves.netlify.app/) 💻 - My portfolio.
+
+Sou um desenvolvedor { Front-End }.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Direciono meus esforços para o aperfeiçoamento das habilidades com as tecnologias voltadas para o Desenvolvimento Web. Abranjo conhecimentos em Javascript, ReactJS (React Hooks, ReactRouter, Context API), Consumo de APIs, criação de SPAs, a biblioteca Styled-Components, Bootstrap, HTML5 e CSS3.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>JavaScript aliado a biblioteca ReactJS.</strong>
+</p>
+
+<p align="left">
+  💌 Você pode entrar em contato comigo pelas opções abaixo: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/joaopaulo-chaves" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="mailto:jpcchaves@outlook.com" alt="email">
+  <img src="https://img.shields.io/badge/-Outlook-blue"/></a>
+
+
+  <a href="https://www.instagram.com/jp.chaves_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 <hr/>
 
