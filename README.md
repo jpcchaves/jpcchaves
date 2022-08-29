@@ -2,14 +2,13 @@
 
 ### How to reach me
 
-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jpcchaves)](https://github.com/jpcchaves/)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo-chaves/)](https://www.linkedin.com/in/joaopaulo-chaves//)
 
 <hr/>
 
 ### About me
 I'm a { Front-End } developer.
-- In progress... 💻 - My portfolio.
+- <a href="https://jpcchaves.netlify.app/" target="_blank">Porfolio</a> 💻 - My portfolio.
 
 <hr/>
 
@@ -19,8 +18,6 @@ I'm a { Front-End } developer.
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <hr/>
     
