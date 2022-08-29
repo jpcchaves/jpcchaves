@@ -8,7 +8,7 @@
 
 ### About me
 I'm a { Front-End } developer.
-- <a href="https://jpcchaves.netlify.app/" target="_blank">Porfolio</a> 💻 - My portfolio.
+- [Portfolio](https://jpcchaves.netlify.app/) 💻 - My portfolio.
 
 <hr/>
 
