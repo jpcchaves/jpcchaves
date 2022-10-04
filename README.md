@@ -1,48 +1,46 @@
-# Hi, I'm João!
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner8.gif" alt="cover" />
+</div>
 
-### About me
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
 
-Sou um desenvolvedor { Front-End }.
-
-Visite meu portfolio - [Portfolio](https://jpcchaves.netlify.app/)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" margin-bottom="50px" alt="Computador iuriCode">
-
-<p align="left"> 
-  Direciono meus esforços para o aperfeiçoamento das habilidades com as tecnologias voltadas para o Desenvolvimento Web. Abranjo conhecimentos em Javascript, ReactJS (React Hooks, ReactRouter, Context API), Consumo de APIs, criação de SPAs, a biblioteca Styled-Components, Bootstrap, HTML5 e CSS3.
 </p>
+<div size='20px'> Hi! My name is João Paulo. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-<p align="left">
-  🦄 Linguagens: <strong>JavaScript aliado a biblioteca ReactJS.</strong>
-</p>
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<p align="left">
-  💌 Você pode entrar em contato comigo pelas opções abaixo: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/joaopaulo-chaves" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="mailto:jpcchaves@outlook.com" alt="email">
-  <img src="https://img.shields.io/badge/-Outlook-blue"/></a>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-  <a href="https://www.instagram.com/jp.chaves_/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+- 🔭 I’m currently working on My Softreaming project (Inspired by Netflix)
 
-<hr/>
+- 🌱 I’m currently learning Front-end development with ReactJS + TypeScript + NodeJS + Express + MongoDB + PostgreSQL 
 
-### Minhas Skills
-  #### Desenvolvimento Web
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- 💬 Talk to me about JavaScript, TypeScript, Freelancing Opportunites, Open Source, Web Development. 
 
-<hr/>
-    
-### Linguagens Mais Utilizadas
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpcchaves&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jpcchaves" /></p>
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/jpcchaves?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/joaopaulo-chaves'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://jpcchaves.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/jpcchaves'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+
+![Metrics](https://github-readme-stats.vercel.app/api/top-langs?username=jpcchaves&show_icons=true&theme=dracula&locale=en&layout=compact)
+
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
