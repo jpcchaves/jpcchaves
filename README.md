@@ -60,7 +60,7 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://github-readme-stats.vercel.app/api/top-langs?username=jpcchaves&show_icons=true&theme=dracula&locale=en&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcchaves&langs_count=8&theme=onedark)](https://github.com/jpcchaves/github-readme-stats)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
