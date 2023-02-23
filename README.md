@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Softreaming project (Inspired by Netflix)
+- 🔭 I’m currently working on improving my skills in Java, Spring Boot, React and TypeScript.
 
-- 🌱 I’m currently learning Front-end development with ReactJS + TypeScript + NodeJS + Express + MongoDB + PostgreSQL 
+- 🌱 I’m currently learning Front-end development with ReactJS + TypeScript and Back-end development with Java and Spring Boot.
 
-- 💬 Talk to me about JavaScript, TypeScript, Freelancing Opportunites, Open Source, Web Development. 
+- 💬 Talk to me about TypeScript, Java, Freelancing Opportunites, Open Source, Web Development. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
@@ -49,6 +49,7 @@
    
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
