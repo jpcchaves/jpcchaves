@@ -9,19 +9,18 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 ## Tech Stack
 
 ### **Technologies:**
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+#### **Frontend**:
+![](https://skillicons.dev/icons?i=react,typescript,redux,bootstrap,materialui,tailwindcss,sass,axios)
+#### **Backend**
+![](https://skillicons.dev/icons?i=java,spring)
+#### **Databases**
+![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
+#### **DevOps**
+![](https://skillicons.dev/icons?i=docker)
+#### **Code Versioning**
+![](https://skillicons.dev/icons?i=git,github)
+  
 ## Projects
 
 ### [Adotar - Backend](https://github.com/jpcchaves/adotar-back), [Adotar - Frontend](https://github.com/jpcchaves/adotar-front)
