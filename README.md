@@ -11,7 +11,7 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 ### **Technologies:**
 
 #### **Frontend**:
-![](https://skillicons.dev/icons?i=react,typescript,redux,bootstrap,materialui,tailwindcss,sass,axios)
+![](https://skillicons.dev/icons?i=react,typescript,next,redux,bootstrap,materialui,tailwindcss,sass,axios)
 #### **Backend**
 ![](https://skillicons.dev/icons?i=java,spring)
 #### **Databases**
