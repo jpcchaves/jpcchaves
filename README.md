@@ -35,7 +35,7 @@ I played a key role as a Software Engineer in this task management project, enab
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcchaves&theme=tokyonight&exclude_repo=adotar-front,portfolio-nextjs,promise-all,chakraui-custom-components,quarkus-getting-started)](https://github.com/jpcchaves)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcchaves&theme=tokyonight&exclude_repo=adotar-front,portfolio-nextjs,promise-all,chakraui-custom-components,quarkus-getting-started,shoppinglist-front,react-demos,invision-front)](https://github.com/jpcchaves)
 
 ## Connect with Me
 
