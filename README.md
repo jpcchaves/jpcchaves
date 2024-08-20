@@ -8,30 +8,28 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ## Tech Stack
 
-### **Technologies:**
+### **Frontend**:
+![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![SASS](https://skillicons.dev/icons?i=sass) ![Axios](https://skillicons.dev/icons?i=axios)
 
-#### **Frontend**:
-![](https://skillicons.dev/icons?i=react,typescript,next,redux,bootstrap,materialui,tailwindcss,sass,axios)
-#### **Backend**
-![](https://skillicons.dev/icons?i=java,spring)
-#### **Databases**
-![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
-#### **DevOps**
-![](https://skillicons.dev/icons?i=docker)
-#### **Code Versioning**
-![](https://skillicons.dev/icons?i=git,github)
-  
+### **Backend**:
+![Java](https://skillicons.dev/icons?i=java) ![Spring Boot](https://skillicons.dev/icons?i=spring)
+
+### **Databases**:
+![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### **DevOps**:
+![Docker](https://skillicons.dev/icons?i=docker)
+
+### **Version Control**:
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+
 ## Projects
 
-### [Adotar - Backend](https://github.com/jpcchaves/adotar-back), [Adotar - Frontend](https://github.com/jpcchaves/adotar-front)
+### [Adotar - Backend](https://github.com/jpcchaves/adotar-back) | [Adotar - Frontend](https://github.com/jpcchaves/adotar-front)
+Adotar is a project focused on solving the challenges around animal adoption. I contributed as a full-stack developer, utilizing Java and Spring Boot for the backend and React with TypeScript on the frontend to create a smooth and efficient user experience.
 
-Adotar is an innovative project that emerged from the need to find a solution to the persistent problem of animal adoption.
-I served as a Software Engineer for this project, responsible for developing both backend and frontend components. I utilized Java and Spring Boot for the backend and employed React and TypeScript for crafting dynamic and user-friendly frontend interfaces. 
-
-### [TaskManager - Backend](https://github.com/jpcchaves/taskmanager-back), [TaskManager - Frontend](https://github.com/jpcchaves/taskmanager-front_v2)
-
-The project is a task manager where users can register, delete, and edit tasks.
-I played a key role as a Software Engineer in this task management project, enabling users to seamlessly register, delete, and edit tasks. 
+### [TaskManager - Backend](https://github.com/jpcchaves/taskmanager-back) | [TaskManager - Frontend](https://github.com/jpcchaves/taskmanager-front_v2)
+This task manager allows users to manage tasks efficiently, featuring functionalities like registration, editing, and deletion. I worked on both backend and frontend, ensuring that the app delivers a seamless task management experience.
 
 ## Top Languages
 
@@ -39,16 +37,13 @@ I played a key role as a Software Engineer in this task management project, enab
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/joaopaulo-chaves/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-](https://jpcchaves-dev.netlify.app/)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulo-chaves/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jpcchaves-dev.netlify.app/)
 
 ## Get in Touch
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about tech!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](jpcchaves@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpcchaves@outlook.com)
 
 Happy coding! 🚀
