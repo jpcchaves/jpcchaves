@@ -25,11 +25,11 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ## Projects
 
-### [Adotar - Backend](https://github.com/jpcchaves/adotar-back) | [Adotar - Frontend](https://github.com/jpcchaves/adotar-front)
-Adotar is a project focused on solving the challenges around animal adoption. I contributed as a full-stack developer, utilizing Java and Spring Boot for the backend and React with TypeScript on the frontend to create a smooth and efficient user experience.
+### [Clean Architecture](https://github.com/jpcchaves/clean-architecture))
+The project uses clean architecture principles with Java Modularity, including Core (business rules, domain entities), Usecase (application-specific logic), Application (use case implementation and gateway interfaces), and Infrastructure (external services, data access via Spring Boot). This ensures separation of concerns, keeping business logic decoupled from infrastructure.
 
-### [TaskManager - Backend](https://github.com/jpcchaves/taskmanager-back) | [TaskManager - Frontend](https://github.com/jpcchaves/taskmanager-front_v2)
-This task manager allows users to manage tasks efficiently, featuring functionalities like registration, editing, and deletion. I worked on both backend and frontend, ensuring that the app delivers a seamless task management experience.
+### [Adotar](https://github.com/jpcchaves/adotar-back)
+Adotar is a project focused on solving the challenges around animal adoption. I contributed as a full-stack developer, utilizing Java and Spring Boot for the backend and React with TypeScript on the frontend to create a smooth and efficient user experience.
 
 ## Top Languages
 
