@@ -25,7 +25,7 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ## Projects
 
-### [Clean Architecture](https://github.com/jpcchaves/clean-architecture))
+### [Clean Architecture](https://github.com/jpcchaves/clean-architecture)
 The project uses clean architecture principles with Java Modularity, including Core (business rules, domain entities), Usecase (application-specific logic), Application (use case implementation and gateway interfaces), and Infrastructure (external services, data access via Spring Boot). This ensures separation of concerns, keeping business logic decoupled from infrastructure.
 
 ### [Adotar](https://github.com/jpcchaves/adotar-back)
