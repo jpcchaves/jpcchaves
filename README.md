@@ -8,9 +8,6 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ## Tech Stack
 
-### **Frontend**:
-![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![SASS](https://skillicons.dev/icons?i=sass) ![Axios](https://skillicons.dev/icons?i=axios)
-
 ### **Backend**:
 ![Java](https://skillicons.dev/icons?i=java) ![Spring Boot](https://skillicons.dev/icons?i=spring)
 
@@ -22,6 +19,9 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ### **Version Control**:
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+
+### **Frontend**:
+![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ## Projects
 
