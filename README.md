@@ -16,6 +16,8 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ### **DevOps**:
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ### **Version Control**:
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
