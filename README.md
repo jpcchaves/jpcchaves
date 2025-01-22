@@ -1,6 +1,6 @@
 # Joao Paulo - Software Engineer
 
-👋 Hello, I'm Joao Paulo, a passionate software engineer with expertise in Java, Spring Boot, React, and TypeScript.
+👋 Hello, I'm Joao Paulo, a passionate software engineer with expertise in Java, Spring Boot.
 
 ## About Me
 
@@ -21,9 +21,6 @@ I thrive on turning ideas into reality through clean and efficient code. With a 
 
 ### **Version Control**:
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
-
-### **Frontend**:
-![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ## Projects
 
